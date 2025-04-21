@@ -1,6 +1,3 @@
-import {Circulo} from "../types/db/circulo"
-import {Triangulo} from "../types/db/triangulo"
-import {Cuadrado} from "../types/db/cuadrado"
 import { IDBService } from "../db/types/dbService";
 
 export class CalculosController {
